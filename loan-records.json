@@ -1,0 +1,68 @@
+[
+  {
+    "name": "小红",
+    "withdrawDate": "2026-01-01",
+    "withdrawAmount": 10000,
+    "annualRate": 4,
+    "termMonths": 3,
+    "maturityDate": "2026-04-01",
+    "advanceInterest": 0,
+    "repayDate": "",
+    "repaid": false
+  },
+  {
+    "name": "小毛",
+    "withdrawDate": "2025-12-29",
+    "withdrawAmount": 10000,
+    "annualRate": 3,
+    "termMonths": 3,
+    "maturityDate": "2026-03-29",
+    "advanceInterest": 0,
+    "repayDate": "",
+    "repaid": false
+  },
+  {
+    "name": "毛学平",
+    "withdrawDate": "2026-01-29",
+    "withdrawAmount": 50000,
+    "annualRate": 3.82,
+    "termMonths": 3,
+    "maturityDate": "2026-04-29",
+    "advanceInterest": 0,
+    "repayDate": "2026-03-07",
+    "repaid": true
+  },
+  {
+    "name": "刘厚连",
+    "withdrawDate": "2026-01-28",
+    "withdrawAmount": 50000,
+    "annualRate": 3.816,
+    "termMonths": 3,
+    "maturityDate": "2026-04-28",
+    "advanceInterest": 0,
+    "repayDate": "2026-03-07",
+    "repaid": true
+  },
+  {
+    "name": "余永婷",
+    "withdrawDate": "2026-01-26",
+    "withdrawAmount": 50000,
+    "annualRate": 3.024,
+    "termMonths": 3,
+    "maturityDate": "2026-04-26",
+    "advanceInterest": 0,
+    "repayDate": "",
+    "repaid": false
+  },
+  {
+    "name": "陈昊",
+    "withdrawDate": "2026-01-27",
+    "withdrawAmount": 50000,
+    "annualRate": 3.816,
+    "termMonths": 3,
+    "maturityDate": "2026-04-27",
+    "advanceInterest": 0,
+    "repayDate": "",
+    "repaid": false
+  }
+]
